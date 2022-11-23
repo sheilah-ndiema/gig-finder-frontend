@@ -1,0 +1,16 @@
+React
+COMPONENTS
+##Navbar
+    logo
+##Home 
+    image, button, logo, paragraph, title, hero section
+##About us
+    title, paragraph
+##Category
+##Job Listing
+##Register
+
+##COLORS
+E6EFFA
+5A738E 
+DF843B

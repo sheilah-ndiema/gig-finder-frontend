@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Poppins:wght@200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+#header{
+    color: #fff;
+    background-color: #5A738E;
+    padding: 10px;
+    max-width: 40rem;
+    align-items: center;
+}
+.main-title{
+    color: #DF843B;
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+    margin: 2rem;
+}
+
+.job-card{
+    width: 350px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    flex-flow: wrap;
+    padding: 2rem;
+    margin: 2rem;
+    color: #5A738E;
+    border-radius: 9px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #D9D9D9;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.3);
+}
+#category{
+    margin: 2rem;
+    background-color: #E6EFFA;
+}
+.job-list-title{
+    color: #DF843B;
+    text-align: center;
+}
+
+.btn-apply{
+    background-color: #5A738E;
+    border-radius: 9px;
+    color: #fff;
+    bottom: 0;
+    font-size: 20px;
+    width: 75%;
+}
+
+#label, #job-type{
+    color: #5A738E;
+    font-size: 24px;
+}
+
+.job-list-card{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-item{
+    background-color: #D9D9D9;
+}
